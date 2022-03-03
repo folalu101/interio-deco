@@ -32,14 +32,55 @@ header {
 .button2 {
     text-align: center;
     background-color: brown;
+    padding: 10px;
 }
 #tell-us {
     text-align: center;
     color: rgb(31, 31, 32);
+    padding: 10px;
 }
 .icon-1 {
     text-align: center;
+    text-decoration: solid;
+    background-color: darksalmon;
+    padding: 10px;
 }
 .button-icon {
     text-align: center;
+    text-decoration: solid;
+    background-color: darksalmon;
+    padding: 10px;
+}
+.icon-2 {
+    text-align: center;
+    text-decoration: solid;
+    background-color: darksalmon;
+    padding: 10px;
+}
+.icon-3 {
+    text-align: center;
+    text-decoration: solid;
+    background-color: darksalmon;
+    padding: 10px;
+}
+.third-h {
+    text-align: center;
+    background-color: cyan;
+    color: black;
+    padding: 10px;
+}
+.forth-h {
+    background-color: darkgray;
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+.testimonial {
+    color: black;
+    background-color: darkcyan;
+    text-align: center;
+}
+#client {
+    background-color: aquamarine;
+    color: black;
 }
