@@ -3,7 +3,7 @@
     border-image: none;
 }
 header {
-    background-color: rgb(192, 21, 21);
+    background-color: rgb(235, 227, 227);
     color: black;
 }
 .head-links {
@@ -15,16 +15,31 @@ header {
     text-justify: newspaper;
     text-decoration: solid;
     text-overflow: ellipsis;
-    text-decoration-color: black;
-    text-shadow: 10px;
-    
-
 }
 .first1 {
     background-color: brown;
     color: white;
     text-align: center;
     text-transform: capitalize;
-    margin: 30px;
+    margin: auto;
     padding: 30px;
+}
+.button1 {
+    text-align: center;
+    background-color: brown;
+    border-color: aliceblue;
+}
+.button2 {
+    text-align: center;
+    background-color: brown;
+}
+#tell-us {
+    text-align: center;
+    color: rgb(31, 31, 32);
+}
+.icon-1 {
+    text-align: center;
+}
+.button-icon {
+    text-align: center;
 }
