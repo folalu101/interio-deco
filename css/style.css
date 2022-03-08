@@ -84,3 +84,21 @@ header {
     background-color: aquamarine;
     color: black;
 }
+.question1 {
+    background-color: coral;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    flex: content;
+}
+.question2{
+    background-color: brown;
+    color: black;
+    text-transform: uppercase;
+    flex: content;
+    text-align: center;
+}
+.font-link {
+    text-align: left;
+    flex: left;
+}
