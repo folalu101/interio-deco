@@ -1,20 +1,19 @@
 
-.head-logo {
-    border-image: none;
-}
+
 header {
     background-color: rgb(235, 227, 227);
     color: black;
 }
 .head-links {
     color: black;
-    text-align: right;
+    text-align: center;
     text-decoration: none;
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
     text-justify: newspaper;
     text-decoration: solid;
     text-overflow: ellipsis;
+    word-spacing: 100%;
 }
 .first1 {
     background-color: brown;
