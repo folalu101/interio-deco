@@ -1,11 +1,12 @@
 
-
+.container {
+    background-image: url(https://www.decor.ng/wp-content/uploads/2020/08/WIC--700x922.jpg);
+}
 header {
-    background-color: rgb(235, 227, 227);
-    color: black;
+    color: white;
 }
 .head-links {
-    color: black;
+    color: white;
     text-align: center;
     text-decoration: none;
     text-transform: uppercase;
@@ -16,7 +17,6 @@ header {
     word-spacing: 100%;
 }
 .first1 {
-    background-color: brown;
     color: white;
     text-align: center;
     text-transform: capitalize;
@@ -25,74 +25,62 @@ header {
 }
 .button1 {
     text-align: center;
-    background-color: brown;
     border-color: aliceblue;
 }
 .button2 {
     text-align: center;
-    background-color: brown;
     padding: 10px;
 }
 #tell-us {
     text-align: center;
-    color: rgb(31, 31, 32);
+    color: white;
     padding: 10px;
 }
 .icon-1 {
     text-align: center;
     text-decoration: solid;
-    background-color: darksalmon;
     padding: 10px;
 }
 .button-icon {
     text-align: center;
     text-decoration: solid;
-    background-color: darksalmon;
     padding: 10px;
 }
 .icon-2 {
     text-align: center;
     text-decoration: solid;
-    background-color: darksalmon;
     padding: 10px;
 }
 .icon-3 {
     text-align: center;
     text-decoration: solid;
-    background-color: darksalmon;
     padding: 10px;
 }
 .third-h {
     text-align: center;
-    background-color: cyan;
-    color: black;
+    color: white;
     padding: 10px;
 }
 .forth-h {
-    background-color: darkgray;
-    color: black;
+    color: white;
     text-align: center;
     padding: 15px;
 }
 .testimonial {
-    color: black;
-    background-color: darkcyan;
+    color: white;
     text-align: center;
 }
 #client {
-    background-color: aquamarine;
-    color: black;
+    color: white;
 }
 .question1 {
-    background-color: coral;
-    color: black;
+    color: white;
     text-align: center;
     text-decoration: none;
     flex: content;
 }
 .question2{
-    background-color: brown;
-    color: black;
+    color: white;
     text-transform: uppercase;
     flex: content;
     text-align: center;
@@ -100,4 +88,7 @@ header {
 .font-link {
     text-align: left;
     flex: left;
+}
+.visual {
+    color: white;
 }
