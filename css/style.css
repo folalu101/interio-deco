@@ -1,6 +1,7 @@
 
 .container {
-    background-image: url(https://www.decor.ng/wp-content/uploads/2020/08/WIC--700x922.jpg);
+    background-image: url(https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg);
+    width: fit-content;
 }
 header {
     color: white;
@@ -26,6 +27,7 @@ header {
 .button1 {
     text-align: center;
     border-color: aliceblue;
+    border-color: black;
 }
 .button2 {
     text-align: center;
@@ -88,7 +90,11 @@ header {
 .font-link {
     text-align: left;
     flex: left;
+    color: aliceblue;
 }
 .visual {
     color: white;
+}
+p {
+    color: aliceblue;
 }
