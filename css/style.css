@@ -131,3 +131,35 @@ p {
     background-color: blue;
     padding: 15px;
 }
+.service1 {
+    text-align: right;
+}
+#sales1 {
+    background-color: blue;
+    color: black;
+    padding: 10px;
+}
+.service2 {
+    text-align: left;
+}
+#sales2 {
+    background-color: blue;
+    color: black;
+    padding: 10px;
+}
+.service3 {
+    text-align: right;
+} 
+#sales3 {
+    background-color: blue;
+    color: black;
+    padding: 10px;
+}
+.service4 {
+    text-align: left;
+}
+#sales4 {
+    background-color: blue;
+    color: black;
+    padding: 10px;
+}
