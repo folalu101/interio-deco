@@ -106,8 +106,26 @@ p {
     text-align: center;
     background-color: blue;
     color: black;
+    padding: auto;
 }
 .pg2 {
     text-align: center;
     background-color: blue;
+}
+.pd1 {
+    text-align: center;
+    background-color: blue;
+    padding: 3px;
+}
+.pd2 {
+    text-decoration: solid;
+    color: black;
+    text-overflow: clip;
+    padding: 10px;
+}
+.pd3 {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding: 15px;
 }
