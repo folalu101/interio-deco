@@ -12,10 +12,7 @@ header {
     text-decoration: none;
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
-    text-justify: newspaper;
     text-decoration: solid;
-    text-overflow: ellipsis;
-    word-spacing: 100%;
 }
 .first1 {
     color: white;
@@ -97,4 +94,11 @@ header {
 }
 p {
     color: aliceblue;
+}
+#first1 {
+    background-color: blue;
+    text-align: center;
+}
+.map {
+    text-align: center;
 }
