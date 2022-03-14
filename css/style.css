@@ -102,3 +102,12 @@ p {
 .map {
     text-align: center;
 }
+.non {
+    text-align: center;
+    background-color: blue;
+    color: black;
+}
+.pg2 {
+    text-align: center;
+    background-color: blue;
+}
