@@ -1,8 +1,6 @@
 
 .container {
-    background-image: url(https://www.egypttoday.com/siteimages/Larg/76848.jpg);
-    width: auto;
-    height: auto;
+    background-color: red;
 }
 .Head-logo {
     background-image: url(https://www.egypttoday.com/siteimages/Larg/9014.jpg);
