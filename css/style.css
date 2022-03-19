@@ -1,8 +1,6 @@
 
 .container {
-    background-image: url(https://www.egypttoday.com/siteimages/Larg/76848.jpg);
-    width: auto;
-    height: auto;
+    background-color: green;
 }
 .Head-logo {
     background-image: url(https://www.egypttoday.com/siteimages/Larg/9014.jpg);
@@ -10,11 +8,9 @@
 .head-links {
     color: white;
     text-align: center;
-    text-decoration: none;
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: solid;
-    text-decoration: none;
 }
 .first1 {
     color: white;
