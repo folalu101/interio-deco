@@ -8,11 +8,10 @@
 .head-links {
     color: white;
     text-align: center;
-    text-decoration: none;
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: solid;
-    text-decoration: none;
+    text-size-adjust: 15%;
 }
 .first1 {
     color: white;
